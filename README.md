@@ -4,7 +4,7 @@
 
 
 <p align="center">
- <img width="2000" height="1000" src=images/SDSS.png>
+ <img width="500" height="500" src=images/SDSS.png>
  </p>
 
 ## Outline:
@@ -25,13 +25,13 @@ In determining our three classifications of whether the object that SDSS has ima
 
 
 <p align="center">
- <img width="2000" height="1000" src=images/ps.png>
+ <img width="500" height="500" src=images/ps.png>
  </p>
 
 
 
 <p align="center">
- <img width="2000" height="1000" src=images/redshift.png>
+ <img width="500" height="500" src=images/redshift.png>
  </p>
 
 * Model
