@@ -31,7 +31,7 @@ In determining our three classifications of whether the object that SDSS has ima
 
 
 <p align="center">
- <img width="500" height="500" src=images/redshift.png>
+ <img width="500" height="600" src=images/redshift.png>
  </p>
 
 * Model
