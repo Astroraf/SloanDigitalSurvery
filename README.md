@@ -2,6 +2,11 @@
 
 # Sloan Digital Sky Survey (SDSS) for Mapping the Cosmos
 
+
+<p align="center">
+ <img width="2000" height="1000" src=images/SDSS.png>
+ </p>
+
 ## Outline:
 * Scientific Proposal
 * Our Approach
@@ -17,6 +22,17 @@ Exploring the cosmos has taken a new turn for the better of humanity. Astrophysi
 * Our approach:
 
 In determining our three classifications of whether the object that SDSS has imaged comes from several key features from the SDSS DR 14 dataset from kaggle. This dataset consists of 10,000 known observations each having a photometric spectrum that spans the ultraviolet (uv), green (g), red (r), infrared (i), and near-infrared (ni) bands, along with their apparent redshift. Under previous scientific research, it is concluded that quasars have the largest redshift as they are black holes with jets pouring out of the poles from incoming material from the accretion disk, making for a distinct classification when using algorithmic models in prediction of the three definitive classes as seen in figure 1. This main issue comes with the classification of galaxies and quasars, as a portion of quasars have a redshift that is similar to galaxies that are equivalent to the recession in respect to Earth. Our team deals with this issue by utilizing the band filters where the quasar peaks in the near-infrared to infrared bands due to the large recession that is occurring. Galaxies that are amongst the homogenous type show a peak in green to red bands that are distinctive from quasars peaks. Stars being the class the easiest class to classify due to the low redshift that occurs in comparison to galaxies and quasars.
+
+
+<p align="center">
+ <img width="2000" height="1000" src=images/ps.png>
+ </p>
+
+
+
+<p align="center">
+ <img width="2000" height="1000" src=images/redshift.png>
+ </p>
 
 * Model
 
