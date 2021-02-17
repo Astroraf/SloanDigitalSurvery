@@ -8,6 +8,8 @@
 * Model
 * Conclusion 
 
+__________________________________________
+
 * Scientific Proposal:
 
 Exploring the cosmos has taken a new turn for the better of humanity. Astrophysicists have become the new Lewis and Clark for mapping the most detailed three dimensional map of our cosmos that is 100 times larger than any previous known map. Understanding the cosmos and the exact position of celestial objects give future explorers insight into how matter is dispersed among the known universe, as well as how future explorers will want to traverse local celestial objects in the search for our next habitable planet for all of humanity. By differentiating between three distinct classes of stars, galaxies, and quasars future travelers can know exactly what celestial objects to investigate for humanity to keep thriving among the cosmic sea. 
