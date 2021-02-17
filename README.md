@@ -25,7 +25,7 @@ In determining our three classifications of whether the object that SDSS has ima
 
 
 <p align="center">
- <img width="800" height="300" src=images/ps.png>
+ <img width="750" height="350" src=images/ps.png>
  </p>
 
 
